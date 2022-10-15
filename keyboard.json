@@ -1,0 +1,13 @@
+{
+  "one time": false,
+  "buttons": [
+    [{
+        "action": {
+        "tipe": "text",
+        "label": "Далее"
+      },
+      "color":"positive"
+      }
+    ]
+  ]
+}
